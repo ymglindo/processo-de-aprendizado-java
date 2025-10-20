@@ -2,3 +2,5 @@ Hoje dia 20/10/2025 aprendi sobre:
 - Váriaveis
 - Saída de dados
 - Processamento de dados
+- Casting
+- Entrada de dados
