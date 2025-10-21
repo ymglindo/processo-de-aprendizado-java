@@ -1,0 +1,47 @@
+Sobre estrutura codicional.
+
+Exercicio 1 = Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
+
+Código:
+import java.util.Scanner;
+
+public class ex2 {
+    public static void main (String[] args){
+        int x;
+        Scanner sc = new Scanner(System.in);
+        x = sc.nextInt();
+
+        if(x >0){
+            System.out.println("Positive Number");
+
+        }
+        else {
+            System.out.println("Negative number");
+        }
+    }
+
+}
+
+Exercicio 2 = Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+Código:
+
+import java.util.Scanner;
+
+public class ex2 {
+    public static void main (String[] args){
+        Scanner sc = new Scanner(System.in);
+        int x;
+        x = sc.nextInt();
+
+        if (x%2 == 0){
+            System.out.println("even number");
+        }
+        else{
+            System.out.println("odd number");
+        }
+    }
+
+}
+
+
+
