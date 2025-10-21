@@ -1,0 +1,4 @@
+Hoje dia 21/10/2025 aprendi sobre:
+-Expressões comparativas
+-Expressões Lógicas
+-Estrutura condicionais
